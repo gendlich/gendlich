@@ -17,6 +17,6 @@ Computer science student, looking to be a fullstack developer
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Projects
- - [ExpressJS + React project](https://github.com/gendlich/projeto-globalsys)
+ - [ExpressJS + React project](https://github.com/gendlich/car-selling-online)
  - [First frontend project, made in Angular](https://github.com/gendlich/online-store-angular)
  - [First fbackend project, made in Express](https://github.com/gendlich/online-store-backend)
