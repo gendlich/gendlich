@@ -1,5 +1,5 @@
 ## About me
-Fullstack Developer with 2 years of experience in software development. I work on front-end and back-end projects using modern technologies such as JavaScript, TypeScript, and C#. Skilled in popular frameworks like Angular, ReactJS, NestJS, NextJS, .NET, and ExpressJS. Experienced with relational and non-relational databases (Postgres, MySQL, MongoDB) and cloud service integration with AWS, including S3, Elastic Beanstalk, ECS, and RDS. Constantly improving my skills to deliver innovative and efficient solutions.
+Fullstack Developer with 3 years of experience in software development. I work on front-end and back-end projects using modern technologies such as JavaScript, TypeScript, and C#. Skilled in popular frameworks like Angular, ReactJS, NestJS, NextJS, .NET, and ExpressJS. Experienced with relational and non-relational databases (Postgres, MySQL, MongoDB) and cloud service integration with AWS, including S3, Elastic Beanstalk, ECS, and RDS. Constantly improving my skills to deliver innovative and efficient solutions.
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=gendlich&theme=dracula)![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=gendlich&theme=dracula)
 
